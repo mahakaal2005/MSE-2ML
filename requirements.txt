@@ -1,0 +1,10 @@
+# MSE-2 House Price Predictor — Dependencies
+# Generated for: MSE_2_ANN (pyenv, Python 3.12.3)
+# Deploy with: streamlit run app.py
+
+pandas==3.0.2
+numpy==2.4.4
+scikit-learn==1.8.0
+joblib==1.5.3
+scipy==1.17.1
+streamlit==1.56.0
